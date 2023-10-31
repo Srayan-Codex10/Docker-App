@@ -1,0 +1,2 @@
+apiUrl=https://newsapi.org/docs/endpoints/everything
+apiKey=9c7acbce481947cca76e4aeccd6a1ed5
